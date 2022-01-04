@@ -25,6 +25,8 @@ Los scripts utilizados para realizar esta solución son los siguientes y realiza
  
 * **04_Model_Interpretation_Conclutions:** Al modelo con mejores resultados en el dataset de test, se desarrollará una descripción sobre como trabaja internamente para lograr las predicciones realizadas. Por último, se establecen algunas alternativas a probar para intentar lograr una mejor predicción en iteraciones futuras del modelo.
 
+Se pueden realizar consultas sobre el modelo desarrollado en la siguiente imagen de Docker: https://hub.docker.com/r/aancarani/accidents_api
+
 
 
 
